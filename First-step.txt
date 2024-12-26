@@ -1,6 +1,6 @@
 Hal yang ingin dicapai pada liburan semester 5
 - Melaksanakan program PKL semaksimal mungkin.
-- Mendapatkan sertifikat dari freecodecamp dengan tema machine learning.
 - Mulai belajar blockchain.
 - Membuat artikel tentang blockchain.
 - Mulai merencanakan kerangka skripsi.
+- Mendapatkan sertifikat lain dari freecodecamp
